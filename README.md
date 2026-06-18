@@ -30,7 +30,7 @@ SQL-LeetCode-Solutions
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 7      |
+| Easy       | 17      |
 | Medium     | 0      |
 | Hard       | 0      |
 
